@@ -1,4 +1,4 @@
-# **MovieLens Recommender System**
+# **Movie Recommender System**
 ### **Matrix Factorization from Scratch using Gradient Descent**
 
 This project implements a **movie recommendation system** using **Matrix Factorization (MF)** built completely from scratch in Python and NumPy. The model learns latent user and movie factors to predict ratings and evaluates performance using RMSE.
